@@ -1,0 +1,20 @@
+h1{
+    color:aquamarine;
+}
+*{ 
+ border:solid;
+}
+p{
+    color:aqua;
+}
+.header{
+    background-color: #808080;
+    display:flex;
+    justify-content: space-between;
+}
+.description{
+    background-color: #6e6e6e
+}
+.body{
+    background-color: #808080
+}
